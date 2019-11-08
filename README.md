@@ -1,2 +1,2 @@
-# chouchouovo.github.io
-我的静态博客网站
+# 序言
+这里是前端知识的库
